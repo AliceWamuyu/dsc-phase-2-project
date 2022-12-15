@@ -1,4 +1,6 @@
-# Phase 2 Project
+# House Data Analysis
+
+Author: Alice Wanjiru Wamuyu
 
 ## Project Overview
 
